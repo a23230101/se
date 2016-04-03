@@ -1,7 +1,7 @@
 <?php
 $admin = array();
 $admin['type'] = 'admin'; 
-$admin['user'] = 'user'; 
-$admin['password'] = '123'; 
+$admin['user'] = 'demo3'; 
+$admin['password'] = 'demo3'; 
 $admin['site'] = 'ON'; 
 ?>
